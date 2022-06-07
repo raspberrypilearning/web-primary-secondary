@@ -1,11 +1,9 @@
-title: default-project-template
+title: Use primary, secondary and tertiary colour classes
 hero_image: images/banner.png
-description: default-project-template description
+description: Use primary, secondary and tertiary classes to set colours for elements. 
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Use primary, secondary and tertiary colour classes
