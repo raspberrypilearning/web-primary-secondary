@@ -1,59 +1,27 @@
-## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Use the `primary`, `secondary` or `tertiary` class to set the background and font colours. 
 
-### What you will make
+These classes use the colours set in the font palette at the top of `style.css`. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![Three boxes each with different contrasting background and text colours.](images/colour-classes.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
+--- code ---
 ---
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
+language: html
+filename: index.html
+line_numbers: false
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+<section class="wrap">
+    <div class="primary">
+        <p>Colour one</p>
+    </div>
+    <div class="secondary">
+        <p>Colour two</p>
+    </div>
+    <div class="tertiary">
+        <p>Colour three</p>
+    </div>
+</section>
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /code ---
