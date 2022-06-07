@@ -14,13 +14,13 @@ line_numbers: false
 
 <section class="wrap">
     <div class="primary">
-        <p>Colour one</p>
+        <p>Lorem ipsum</p>
     </div>
     <div class="secondary">
-        <p>Colour two</p>
+        <p>Lorem ipsum</p>
     </div>
     <div class="tertiary">
-        <p>Colour three</p>
+        <p>Lorem ipsum</p>
     </div>
 </section>
 
