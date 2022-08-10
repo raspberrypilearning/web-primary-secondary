@@ -1,9 +1,9 @@
 
-Use the `primary`, `secondary` or `tertiary` class to set the background and font colours. 
+Use the `primary`, `secondary`, or `tertiary` class to set the background and font colours. 
 
 These classes use the colours set in the font palette at the top of `style.css`. 
 
-![Three boxes each with different contrasting background and text colours.](images/colour-classes.png)
+![Three boxes. Each box has different contrasting background and text colours.](images/colour-classes.png)
 
 --- code ---
 ---
