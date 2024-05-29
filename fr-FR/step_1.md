@@ -1,8 +1,8 @@
-Use the `primary`, `secondary`, or `tertiary` class to set the background and font colours.
+Utilise la classe `primary`, `secondary` ou `tertiary` pour définir les couleurs de l'arrière-plan et de la police.
 
-These classes use the colours set in the font palette at the top of `style.css`.
+Ces classes utilisent les couleurs définies dans la palette de polices en haut du fichier `style.css`.
 
-![Three boxes. Each box has different contrasting background and text colours.](images/colour-classes.png)
+![Trois cases. Chaque case a des couleurs d'arrière-plan et de texte différentes et contrastées.](images/colour-classes.png)
 
 ## --- code ---
 
