@@ -1,8 +1,8 @@
-Use the `primary`, `secondary`, or `tertiary` class to set the background and font colours.
+Gebruik de class `primary`, `secundary` of `tertiary` om de achtergrond- en lettertypekleuren in te stellen.
 
-These classes use the colours set in the font palette at the top of `style.css`.
+Deze classes gebruiken de kleuren die zijn ingesteld in het lettertypepalet bovenaan `style.css`.
 
-![Three boxes. Each box has different contrasting background and text colours.](images/colour-classes.png)
+Drie velden. Elke veld heeft verschillende contrasterende achtergrond- en tekstkleuren.](images/colour-classes.png)
 
 ## --- code ---
 
