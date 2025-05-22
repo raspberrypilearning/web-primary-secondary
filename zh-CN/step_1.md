@@ -1,8 +1,8 @@
-Use the `primary`, `secondary`, or `tertiary` class to set the background and font colours.
+使用 `primary`, `secondary`, 或者 `tertiary` 类来设置背景和字体颜色。
 
-These classes use the colours set in the font palette at the top of `style.css`.
+这些类使用“style.css”顶部的字体调色板中设置的颜色。
 
-![Three boxes. Each box has different contrasting background and text colours.](images/colour-classes.png)
+![三个盒子。 每个框都有不同的对比背景和文本颜色。](images/colour-classes.png)
 
 ## --- code ---
 
